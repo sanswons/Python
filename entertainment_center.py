@@ -37,4 +37,10 @@ minions=media.Movie("Minions"
                     ,"www.youtube.com/watch?v=P9-FCC6I7u0")
 
 movies=[toy_story,twmr,ddlj,rnbdj,Avengers,minions]
+
 fresh_tomatoes.open_movies_page(movies)
+
+#print(media.Movie.VALID_RATINGS)
+
+
+
